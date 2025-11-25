@@ -1,0 +1,6 @@
+chromadb
+google-generativeai
+python-dotenv
+tiktoken
+langchain
+sentence-transformers
